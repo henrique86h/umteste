@@ -1,0 +1,3 @@
+Na aula de hoje trabalhamos com os plugins:
+- Parallax
+- Justified Gallery
